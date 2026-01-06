@@ -85,19 +85,26 @@ GET /api/sellers → List of featured sellers
 
 GET /api/promotions → Banner and promotional content
 
-📸 Screenshots
+## 📸 Screenshots
 
-Hero Banner
+### Hero Banner
+![Hero](screenshots/hero.png)
 
-Categories
+### Categories
+![Categories](screenshots/categories.png)
 
-Trending Products
+### Trending Products
+![Trending](screenshots/trending.png)
 
-Flash Deals
+### Flash Deals
+![Flash Deals](screenshots/flash-deals.png)
 
-Featured Sellers
+### Featured Sellers
+![Sellers](screenshots/sellers.png)
 
-Footer
+### Footer
+![Footer](screenshots/footer.png)
+
 
 🎯 Purpose & Goals
 
